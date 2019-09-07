@@ -1,1 +1,2 @@
 # PCAP
+Certified Associate in Python Programming [(PCAP)](https://pythoninstitute.org/certification/pcap-certification-associate/) is a professional credential that measures one's ability to accomplish coding tasks related to the basics of programming in the Python language and the fundamental notions and techniques used in object-oriented programming. I am going through the online course to recap my knowledge in python and fill any knowledge gaps. The course is a preparation for the certification exam.
